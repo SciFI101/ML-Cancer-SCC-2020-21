@@ -1,0 +1,208 @@
+Sample,TRAINING OR TEST SET?,CONGENITAL ABNORMALITY,CNS STATUS,TESTICULAR INVOLVEMENT,GENDER,AMPLIFICATION SET,"E2A-PBX, T(1;19)","BCR-ABL, T(9;22)","TEL-AML,T(12;21)",HYBRIDIZATION SET,"BLAST COUNT, % OF SAMPLE, -1=UNAVAILABLE",MLL,"SAMPLE VIABILITY, % OF SAMPLE, -1=UNAVAILABLE",TISSUE TYPE,AGE IN DAYS AT DIAGNOSIS,"WBC, 1000/MICROLITER",RACE,TRISOMY 4 AND 10
+GSM300068,training set,Unknown,No CNS disease,Negative,Male,10,Negative,Negative,Negative,18,90,Negative,66,bone marrow,5349,147.6,Hispanic or Latino,Negative
+GSM300067,training set,Unknown,No CNS disease,Negative,Male,9,Negative,Negative,Negative,16,95,Negative,85,bone marrow,4918,5.5,White,Negative
+GSM300065,training set,Unknown,No CNS disease,Negative,Male,9,Negative,Negative,Negative,16,95,Negative,88,bone marrow,5857,13.3,White,Negative
+GSM300062,training set,None,No CNS disease,Negative,Male,9,Negative,Negative,Negative,16,-1,Negative,46,peripheral blood,713,110.3,White,Negative
+GSM30006,training set,None,No CNS disease,Negative,Male,9,Negative,Negative,Negative,16,90,Negative,98,bone marrow,5183,23,Black or African American,Negative
+GSM300060,training set,None,No CNS disease,Negative,Male,9,Negative,Negative,Negative,16,70,Negative,93,peripheral blood,6479,31.9,White,Negative
+GSM300057,training set,None,No CNS disease,Unknown,Male,9,Negative,Negative,Negative,16,-1,Positive,50,bone marrow,585,7.5,White,Negative
+GSM300053,training set,None,No CNS disease,Negative,Male,8,Positive,Negative,Negative,15,90,Negative,72,peripheral blood,4434,42.1,White,Negative
+GSM300050,training set,None,No CNS disease,Negative,Male,8,Negative,Negative,Negative,15,80,Negative,83,peripheral blood,5097,6.3,White,Negative
+GSM300048,training set,None,No CNS disease,Negative,Female,8,Negative,Negative,Negative,15,75,Negative,97,bone marrow,7461,3.8,White,Negative
+GSM300047,training set,None,"> 5 CSF WBC/ul with blasts on cytospin and/or eye involvement, cranial nerve involvement, parenchymal brain involvement",Negative,Male,8,Negative,Negative,Negative,15,60,Negative,93,peripheral blood,1896,4.1,Hispanic or Latino,Positive
+GSM300046,training set,None,No CNS disease,Positive,Male,8,Negative,Negative,Negative,15,60,Negative,99,peripheral blood,4571,6.9,White,Negative
+GSM300045,training set,None,No CNS disease,Negative,Female,8,Negative,Negative,Negative,15,90,Negative,98,bone marrow,6119,2.3,American Indian or Alaska native,Negative
+GSM300044,training set,Unknown,No CNS disease,Negative,Male,8,Negative,Negative,Negative,15,40,Negative,100,peripheral blood,6202,2.3,White,Negative
+GSM300042,training set,None,No CNS disease,Negative,Male,7,Negative,Negative,Negative,14,95,Negative,84,bone marrow,650,102.5,Hispanic or Latino,Negative
+GSM300039,training set,None,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Negative,Female,7,Negative,Negative,Negative,14,-1,Negative,51,peripheral blood,728,138.4,White,Negative
+GSM300038,training set,None,No CNS disease,Unknown,Female,4,Positive,Negative,Negative,13,85,Negative,96,bone marrow,3901,136.6,Hispanic or Latino,Negative
+GSM300037,training set,None,No CNS disease,Negative,Male,6,Negative,Negative,Negative,11,95,Negative,99,peripheral blood,6666,114.6,Hispanic or Latino,Negative
+GSM300036,training set,None,No CNS disease,Unknown,Female,4,Positive,Negative,Negative,13,90,Negative,84,peripheral blood,5670,37.2,White,Negative
+GSM300035,training set,None,No CNS disease,Negative,Male,4,Negative,Negative,Negative,13,95,Negative,95,peripheral blood,768,138.8,White,Negative
+GSM300033,training set,Unknown,No CNS disease,Unknown,Female,3,Positive,Negative,Negative,11,95,Negative,99,peripheral blood,1011,302.1,White,Negative
+GSM300032,training set,None,"> 5 CSF WBC/ul with blasts on cytospin and/or eye involvement, cranial nerve involvement, parenchymal brain involvement",Negative,Male,1,Negative,Negative,Negative,4,95,Negative,97,bone marrow,523,82.9,Black or African American,Negative
+GSM30003,training set,None,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Unknown,Female,1,Negative,Negative,Negative,4,95,Negative,96,bone marrow,5217,135.8,White,Negative
+GSM300030,training set,Unknown,No CNS disease,Negative,Male,4,Negative,Negative,Negative,13,90,Negative,99,bone marrow,6036,8.8,Hispanic or Latino,Negative
+GSM300027,training set,None,No CNS disease,Negative,Male,3,Positive,Negative,Negative,12,-1,Negative,59,bone marrow,5890,9.4,White,Negative
+GSM300026,training set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,11,95,Negative,97,peripheral blood,988,958.8,Hispanic or Latino,Negative
+GSM300025,training set,Downs,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Unknown,Female,3,Negative,Negative,Negative,10,90,Negative,98,bone marrow,4665,95.2,Hispanic or Latino,Negative
+GSM300024,training set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,10,95,Negative,99,peripheral blood,5081,307,Hispanic or Latino,Negative
+GSM300023,training set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,9,95,Negative,98,bone marrow,4955,31.5,Hispanic or Latino,Negative
+GSM300018,training set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,10,95,Negative,96,bone marrow,6468,7,Hispanic or Latino,Negative
+GSM300016,training set,Unknown,No CNS disease,Negative,Male,3,Negative,Negative,Negative,9,95,Negative,99,bone marrow,6633,1.9,White,Negative
+GSM300015,training set,None,No CNS disease,Unknown,Female,3,Negative,Negative,Negative,12,95,Negative,96,bone marrow,6090,24.8,White,Negative
+GSM300014,training set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,12,95,Negative,89,bone marrow,515,124,White,Negative
+GSM3000,training set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,10,95,Negative,99,peripheral blood,5759,33.9,White,Negative
+GSM300010,training set,Downs,No CNS disease,Negative,Male,3,Negative,Negative,Negative,10,95,Negative,95,bone marrow,4276,24.4,White,Negative
+GSM300007,training set,None,"> 5 CSF WBC/ul with blasts on cytospin and/or eye involvement, cranial nerve involvement, parenchymal brain involvement",Unknown,Male,3,Negative,Negative,Negative,9,40,Negative,94,peripheral blood,4972,6.3,American Indian or Alaska native,Negative
+GSM300005,training set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,12,90,Negative,94,bone marrow,4759,2.4,White,Negative
+GSM300004,training set,Unknown,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Positive,Male,3,Negative,Negative,Negative,12,85,Negative,98,peripheral blood,655,9.8,White,Negative
+GSM300003,training set,None,"> 5 CSF WBC/ul with blasts on cytospin and/or eye involvement, cranial nerve involvement, parenchymal brain involvement",Unknown,Female,3,Negative,Negative,Negative,12,95,Negative,96,bone marrow,6032,59.2,White,Positive
+GSM300002,training set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,11,95,Negative,67,bone marrow,2038,193,White,Negative
+GSM30000,training set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,11,95,Negative,94,bone marrow,5954,15.5,Black or African American,Negative
+GSM300000,training set,None,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Unknown,Female,3,Negative,Negative,Negative,10,95,Negative,99,peripheral blood,2192,209.6,White,Negative
+GSM299998,training set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,9,90,Positive,96,bone marrow,5664,22,White,Negative
+GSM299997,training set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,12,95,Negative,99,bone marrow,6263,1,White,Negative
+GSM299996,training set,None,No CNS disease,Unknown,Male,3,Positive,Negative,Negative,11,90,Negative,64,bone marrow,5025,73.1,Asian,Negative
+GSM299995,training set,Unknown,No CNS disease,Negative,Male,3,Negative,Unknown,Unknown,10,95,Negative,85,bone marrow,4157,77.6,White,Negative
+GSM299992,training set,None,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Unknown,Female,3,Negative,Negative,Negative,12,60,Negative,98,peripheral blood,4324,35.7,White,Negative
+GSM29999,training set,None,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Negative,Male,3,Negative,Negative,Negative,11,90,Negative,81,bone marrow,4307,44.9,Hispanic or Latino,Negative
+GSM299989,training set,None,"> 5 CSF WBC/ul with blasts on cytospin and/or eye involvement, cranial nerve involvement, parenchymal brain involvement",Negative,Male,3,Negative,Negative,Negative,9,90,Negative,86,bone marrow,976,7.7,White,Positive
+GSM299988,training set,None,No CNS disease,Unknown,Female,3,Negative,Negative,Negative,9,90,Negative,98,bone marrow,4329,179,White,Negative
+GSM299987,training set,None,"> 5 CSF WBC/ul with blasts on cytospin and/or eye involvement, cranial nerve involvement, parenchymal brain involvement",Unknown,Female,3,Negative,Negative,Negative,9,95,Negative,94,bone marrow,1751,238,White,Negative
+GSM299986,training set,Unknown,No CNS disease,Unknown,Female,3,Negative,Negative,Negative,12,75,Negative,99,peripheral blood,1313,69.4,White,Negative
+GSM299984,training set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,11,-1,Negative,59,bone marrow,5542,7.9,Other,Negative
+GSM299982,training set,None,"> 5 CSF WBC/ul with blasts on cytospin and/or eye involvement, cranial nerve involvement, parenchymal brain involvement",Unknown,Female,3,Negative,Negative,Negative,11,90,Negative,98,bone marrow,1275,214,Hispanic or Latino,Negative
+GSM29998,training set,Unknown,No CNS disease,Negative,Male,3,Negative,Negative,Negative,10,90,Negative,100,peripheral blood,2191,272,White,Negative
+GSM299980,training set,Unknown,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Negative,Male,3,Negative,Negative,Negative,10,70,Negative,99,peripheral blood,7478,28,White,Negative
+GSM299979,training set,None,No CNS disease,Unknown,Female,3,Negative,Negative,Negative,9,75,Negative,99,peripheral blood,705,137.2,Hispanic or Latino,Negative
+GSM299978,training set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,9,95,Negative,97,peripheral blood,4253,236.4,Hispanic or Latino,Negative
+GSM299977,training set,Unknown,No CNS disease,Unknown,Female,3,Positive,Negative,Negative,12,90,Negative,75,peripheral blood,5797,39.6,Black or African American,Negative
+GSM299976,training set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,12,95,Positive,94,bone marrow,462,17.3,Hispanic or Latino,Negative
+GSM299973,training set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,11,95,Negative,66,bone marrow,6142,18.5,Hispanic or Latino,Negative
+GSM29997,training set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,10,80,Negative,94,peripheral blood,6306,16.7,White,Negative
+GSM299970,training set,None,No CNS disease,Unknown,Female,3,Negative,Negative,Negative,9,95,Negative,100,peripheral blood,2786,105.7,White,Negative
+GSM299968,training set,None,No CNS disease,Negative,Male,2,Negative,Negative,Negative,8,80,Negative,99,bone marrow,6335,13.3,White,Negative
+GSM299966,training set,None,No CNS disease,Negative,Male,2,Negative,Negative,Negative,6,95,Negative,100,peripheral blood,369,325,White,Negative
+GSM299965,training set,Unknown,No CNS disease,Unknown,Female,2,Negative,Negative,Negative,5,90,Negative,98,bone marrow,4863,65.8,White,Negative
+GSM299963,training set,None,No CNS disease,Negative,Male,2,Negative,Negative,Negative,7,90,Positive,84,peripheral blood,966,37.3,White,Negative
+GSM299962,training set,None,No CNS disease,Unknown,Female,4,Negative,Negative,Negative,6,90,Positive,97,peripheral blood,4560,108,White,Negative
+GSM299960,training set,None,No CNS disease,Negative,Male,2,Negative,Negative,Negative,7,95,Negative,93,peripheral blood,1258,145,Hispanic or Latino,Negative
+GSM299959,training set,None,No CNS disease,Unknown,Female,2,Negative,Negative,Negative,7,95,Negative,71,bone marrow,5925,19.5,Hispanic or Latino,Negative
+GSM299957,training set,None,No CNS disease,Unknown,Female,2,Negative,Negative,Negative,6,90,Positive,91,peripheral blood,1038,114,Hispanic or Latino,Negative
+GSM299956,training set,None,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Negative,Male,2,Negative,Negative,Negative,5,-1,Negative,26,bone marrow,5177,166.5,White,Unknown
+GSM299953,training set,Unknown,No CNS disease,Negative,Male,2,Negative,Negative,Negative,8,95,Negative,87,bone marrow,697,110.9,White,Negative
+GSM29995,training set,Unknown,No CNS disease,Negative,Male,2,Negative,Negative,Negative,7,95,Negative,97,bone marrow,5408,1.2,White,Negative
+GSM299950,training set,None,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Negative,Male,4,Negative,Negative,Negative,7,90,Positive,95,bone marrow,410,51.3,White,Negative
+GSM299949,training set,None,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Negative,Male,6,Negative,Negative,Negative,7,95,Positive,87,bone marrow,5127,555,White,Negative
+GSM299946,training set,None,No CNS disease,Negative,Female,2,Negative,Negative,Negative,5,85,Negative,100,peripheral blood,6984,30.4,White,Negative
+GSM299945,training set,Unknown,No CNS disease,Negative,Male,2,Negative,Negative,Negative,5,90,Negative,87,bone marrow,4935,24.5,Asian,Negative
+GSM299943,training set,None,"> 5 CSF WBC/ul with blasts on cytospin and/or eye involvement, cranial nerve involvement, parenchymal brain involvement",Negative,Female,2,Negative,Negative,Negative,8,95,Negative,92,peripheral blood,2133,17.5,White,Negative
+GSM299942,training set,None,No CNS disease,Negative,Female,4,Negative,Negative,Negative,8,65,Negative,98,peripheral blood,6413,16.6,Hispanic or Latino,Negative
+GSM29994,training set,None,No CNS disease,Unknown,Female,2,Negative,Negative,Positive,7,90,Negative,79,bone marrow,1429,192,White,Negative
+GSM299939,training set,Unknown,No CNS disease,Unknown,Female,6,Negative,Negative,Negative,6,95,Negative,94,bone marrow,4717,62.3,White,Negative
+GSM299937,training set,None,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Negative,Male,2,Negative,Negative,Negative,5,95,Negative,99,peripheral blood,5564,112,White,Negative
+GSM299936,training set,Unknown,No CNS disease,Negative,Male,2,Negative,Negative,Negative,8,95,Negative,89,bone marrow,4807,12.7,White,Negative
+GSM299934,training set,None,"> 5 CSF WBC/ul with blasts on cytospin and/or eye involvement, cranial nerve involvement, parenchymal brain involvement",Negative,Male,2,Negative,Negative,Negative,7,95,Negative,83,peripheral blood,5163,270,White,Negative
+GSM299932,training set,Unknown,No CNS disease,Unknown,Female,2,Positive,Negative,Negative,6,90,Negative,96,peripheral blood,1191,175.5,Asian,Negative
+GSM29993,training set,None,No CNS disease,Negative,Male,2,Negative,Negative,Negative,5,95,Negative,91,bone marrow,2027,199,Hispanic or Latino,Negative
+GSM299929,training set,None,No CNS disease,Unknown,Female,2,Negative,Negative,Negative,8,95,Negative,100,bone marrow,531,119,White,Negative
+GSM299928,training set,Downs,No CNS disease,Unknown,Female,2,Negative,Negative,Negative,7,90,Negative,99,peripheral blood,6922,68.9,White,Negative
+GSM299926,training set,None,No CNS disease,Negative,Male,2,Negative,Negative,Negative,6,95,Negative,99,bone marrow,6063,2.3,unknown,Negative
+GSM299925,training set,None,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Negative,Male,4,Negative,Negative,Negative,6,90,Negative,98,peripheral blood,5495,96.2,White,Negative
+GSM299924,training set,None,No CNS disease,Unknown,Female,2,Negative,Negative,Negative,5,90,Negative,95,bone marrow,6733,102,Asian,Negative
+GSM299923,training set,None,No CNS disease,Negative,Male,2,Negative,Negative,Negative,5,95,Negative,99,bone marrow,5867,21.1,Hispanic or Latino,Negative
+GSM299922,training set,None,No CNS disease,Unknown,Female,2,Negative,Negative,Negative,8,90,Negative,100,peripheral blood,727,109.5,White,Negative
+GSM29992,training set,None,No CNS disease,Negative,Male,2,Negative,Negative,Negative,8,70,Negative,100,bone marrow,6306,22.8,White,Negative
+GSM299920,training set,None,No CNS disease,Negative,Male,2,Negative,Negative,Negative,7,95,Negative,88,bone marrow,6266,34.9,Hispanic or Latino,Negative
+GSM299919,training set,None,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Unknown,Female,2,Negative,Negative,Negative,6,95,Negative,98,peripheral blood,4469,478,Hispanic or Latino,Negative
+GSM299917,training set,Unknown,No CNS disease,Negative,Male,4,Negative,Negative,Negative,6,95,Negative,100,bone marrow,904,137.8,White,Negative
+GSM299916,training set,Other,"> 5 CSF WBC/ul with blasts on cytospin and/or eye involvement, cranial nerve involvement, parenchymal brain involvement",Negative,Male,2,Negative,Negative,Positive,5,80,Negative,99,peripheral blood,449,59.9,Hispanic or Latino,Negative
+GSM299915,training set,Unknown,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Negative,Male,2,Negative,Negative,Negative,5,95,Negative,98,bone marrow,2875,351.3,Asian,Negative
+GSM299914,training set,None,No CNS disease,Negative,Male,1,Negative,Negative,Negative,4,95,Negative,99,bone marrow,6733,81.4,White,Negative
+GSM299912,training set,Unknown,No CNS disease,Negative,Female,1,Negative,Negative,Negative,2,95,Negative,82,peripheral blood,4090,289.3,White,Negative
+GSM2999,training set,None,No CNS disease,Negative,Male,1,Negative,Negative,Negative,2,90,Negative,95,bone marrow,1167,156,White,Negative
+GSM299909,training set,None,No CNS disease,Negative,Male,1,Negative,Negative,Negative,4,95,Negative,97,bone marrow,5086,36.2,White,Negative
+GSM299908,training set,Unknown,No CNS disease,Negative,Male,1,Negative,Negative,Negative,3,95,Negative,98,peripheral blood,6114,80.9,White,Negative
+GSM299907,training set,Downs,No CNS disease,Negative,Female,1,Negative,Negative,Negative,2,95,Negative,96,bone marrow,5721,88.9,White,Negative
+GSM299906,training set,None,No CNS disease,Negative,Male,1,Positive,Negative,Negative,1,90,Negative,90,bone marrow,4940,8,White,Negative
+GSM299903,training set,None,No CNS disease,Unknown,Female,1,Negative,Negative,Negative,3,95,Positive,92,bone marrow,398,135,White,Negative
+GSM299902,training set,None,No CNS disease,Negative,Male,1,Negative,Negative,Negative,3,80,Negative,100,peripheral blood,6331,32.6,White,Negative
+GSM29990,training set,None,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Unknown,Female,1,Negative,Negative,Negative,2,95,Positive,95,bone marrow,3311,489,White,Negative
+GSM299900,training set,None,No CNS disease,Negative,Male,1,Negative,Negative,Negative,2,95,Positive,99,peripheral blood,4774,246.4,Hispanic or Latino,Negative
+GSM299899,training set,None,No CNS disease,Unknown,Female,1,Negative,Negative,Negative,1,95,Negative,74,bone marrow,835,115,White,Negative
+GSM299898,training set,None,No CNS disease,Negative,Male,1,Positive,Negative,Negative,4,95,Negative,97,bone marrow,1361,117.2,Hispanic or Latino,Negative
+GSM299897,training set,None,No CNS disease,Negative,Male,1,Negative,Negative,Negative,3,95,Positive,99,peripheral blood,6511,515,White,Negative
+GSM299896,training set,Downs,No CNS disease,Negative,Male,1,Positive,Negative,Negative,3,75,Negative,98,peripheral blood,6496,9.1,White,Negative
+GSM299895,training set,Unknown,No CNS disease,Negative,Male,1,Negative,Negative,Negative,2,95,Negative,62,bone marrow,5842,27.4,White,Negative
+GSM299894,training set,None,No CNS disease,Negative,Male,1,Negative,Negative,Negative,1,90,Negative,82,bone marrow,5513,2.5,White,Negative
+GSM299892,training set,None,No CNS disease,Unknown,Female,1,Positive,Negative,Negative,4,95,Negative,100,peripheral blood,1531,196.1,Hispanic or Latino,Negative
+GSM29989,training set,None,"> 5 CSF WBC/ul with blasts on cytospin and/or eye involvement, cranial nerve involvement, parenchymal brain involvement",Negative,Male,1,Negative,Negative,Positive,4,95,Negative,65,bone marrow,2509,1.7,White,Negative
+GSM299890,training set,Unknown,No CNS disease,Negative,Male,1,Negative,Negative,Negative,4,90,Negative,98,bone marrow,6219,16.5,White,Negative
+GSM299889,training set,None,No CNS disease,Negative,Male,1,Negative,Negative,Negative,3,95,Negative,70,bone marrow,6323,15.4,White,Negative
+GSM299888,training set,None,No CNS disease,Negative,Male,1,Negative,Negative,Negative,3,90,Negative,97,bone marrow,6674,3.8,Hispanic or Latino,Negative
+GSM299886,training set,None,No CNS disease,Positive,Male,1,Negative,Negative,Negative,2,70,Negative,98,bone marrow,3444,5,Hispanic or Latino,Negative
+GSM299883,training set,None,No CNS disease,Negative,Male,1,Negative,Negative,Negative,1,95,Negative,97,bone marrow,4722,4.4,White,Negative
+GSM299882,training set,None,No CNS disease,Unknown,Female,1,Negative,Negative,Negative,1,95,Negative,80,peripheral blood,428,248,White,Negative
+GSM299880,training set,None,No CNS disease,Negative,Male,1,Positive,Negative,Negative,2,85,Negative,98,bone marrow,5330,5.8,White,Negative
+GSM299879,training set,None,No CNS disease,Negative,Male,1,Negative,Negative,Negative,1,95,Negative,91,bone marrow,5278,113.5,White,Negative
+GSM299876,training set,Downs,No CNS disease,Unknown,Female,1,Negative,Negative,Negative,4,95,Negative,98,bone marrow,1429,118,White,Negative
+GSM299875,training set,None,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Negative,Male,1,Negative,Negative,Negative,3,90,Negative,97,peripheral blood,5219,180,unknown,Negative
+GSM299874,training set,Unknown,No CNS disease,Unknown,Female,1,Negative,Negative,Negative,3,95,Negative,99,peripheral blood,5118,217.2,Hispanic or Latino,Negative
+GSM299873,training set,Unknown,No CNS disease,Negative,Male,1,Negative,Negative,Negative,2,95,Negative,99,bone marrow,5223,29.9,White,Negative
+GSM299872,training set,None,No CNS disease,Unknown,Female,1,Negative,Negative,Negative,1,85,Positive,100,peripheral blood,4071,125.8,White,Negative
+GSM29987,training set,Unknown,"> 5 CSF WBC/ul with blasts on cytospin and/or eye involvement, cranial nerve involvement, parenchymal brain involvement",Negative,Male,1,Negative,Negative,Negative,1,75,Negative,68,bone marrow,796,21,White,Negative
+GSM299868,training set,None,No CNS disease,Negative,Male,1,Negative,Negative,Negative,4,-1,Negative,71,bone marrow,3987,68.6,Asian,Negative
+GSM299867,training set,None,No CNS disease,Negative,Male,1,Negative,Negative,Negative,3,80,Negative,68,bone marrow,5289,14.7,White,Negative
+GSM299866,training set,None,No CNS disease,Negative,Male,1,Negative,Negative,Negative,3,95,Negative,95,bone marrow,4609,26,Hispanic or Latino,Negative
+GSM299864,training set,None,No CNS disease,Negative,Male,1,Negative,Negative,Negative,2,70,Negative,99,peripheral blood,5250,220.7,Hispanic or Latino,Negative
+GSM299863,training set,None,No CNS disease,Negative,Male,1,Negative,Negative,Negative,1,90,Negative,100,peripheral blood,1976,142,Black or African American,Negative
+GSM299862,test set,None,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Unknown,Female,1,Negative,Negative,Negative,1,90,Positive,100,peripheral blood,3953,175,White,Negative
+GSM299865,test set,None,No CNS disease,Negative,Male,1,Negative,Negative,Negative,2,95,Negative,88,peripheral blood,577,129,White,Negative
+GSM299869,test set,None,"> 5 CSF WBC/ul with blasts on cytospin and/or eye involvement, cranial nerve involvement, parenchymal brain involvement",Negative,Male,1,Negative,Negative,Negative,4,90,Negative,98,bone marrow,4856,21.4,White,Negative
+GSM299870,test set,None,No CNS disease,Negative,Male,1,Negative,Negative,Negative,4,1,Negative,99,bone marrow,4678,2.4,White,Negative
+GSM299877,test set,Unknown,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Unknown,Female,1,Negative,Negative,Negative,1,95,Negative,97,peripheral blood,3179,314.8,White,Negative
+GSM299878,test set,None,"> 5 CSF WBC/ul with blasts on cytospin and/or eye involvement, cranial nerve involvement, parenchymal brain involvement",Unknown,Female,1,Negative,Negative,Negative,1,-1,Negative,58,bone marrow,1450,5.2,White,Negative
+GSM29988,test set,Unknown,No CNS disease,Unknown,Female,1,Negative,Negative,Negative,4,90,Negative,99,peripheral blood,4861,592.6,Hispanic or Latino,Negative
+GSM299884,test set,Unknown,No CNS disease,Negative,Male,1,Negative,Negative,Negative,2,95,Negative,99,bone marrow,3587,72.2,White,Negative
+GSM299885,test set,None,"> 5 CSF WBC/ul with blasts on cytospin and/or eye involvement, cranial nerve involvement, parenchymal brain involvement",Negative,Female,1,Negative,Negative,Negative,2,90,Positive,98,peripheral blood,5431,133,White,Negative
+GSM299887,test set,None,"> 5 CSF WBC/ul with blasts on cytospin and/or eye involvement, cranial nerve involvement, parenchymal brain involvement",Negative,Male,1,Negative,Negative,Negative,3,90,Negative,99,peripheral blood,862,194,Other,Negative
+GSM299893,test set,Unknown,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Unknown,Male,1,Negative,Negative,Negative,1,85,Negative,100,peripheral blood,5516,202.4,Hispanic or Latino,Negative
+GSM299904,test set,None,No CNS disease,Negative,Male,1,Positive,Negative,Negative,3,95,Negative,96,bone marrow,5631,67.2,White,Negative
+GSM299905,test set,None,"> 5 CSF WBC/ul with blasts on cytospin and/or eye involvement, cranial nerve involvement, parenchymal brain involvement",Unknown,Female,1,Negative,Negative,Negative,1,95,Negative,96,bone marrow,944,12.1,White,Negative
+GSM299910,test set,None,No CNS disease,Negative,Male,1,Negative,Negative,Negative,4,95,Negative,90,bone marrow,5359,80.8,White,Negative
+GSM299913,test set,None,No CNS disease,Negative,Male,1,Negative,Negative,Negative,3,95,Positive,90,peripheral blood,792,237,White,Negative
+GSM299918,test set,None,No CNS disease,Negative,Male,2,Negative,Negative,Negative,6,90,Negative,98,bone marrow,1426,138.4,White,Negative
+GSM299927,test set,None,No CNS disease,Unknown,Female,2,Negative,Negative,Negative,6,95,Negative,87,bone marrow,5922,27,Hispanic or Latino,Negative
+GSM299930,test set,Unknown,No CNS disease,Unknown,Female,2,Negative,Negative,Negative,5,95,Negative,97,bone marrow,4106,210,White,Negative
+GSM299933,test set,None,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Unknown,Female,6,Negative,Negative,Negative,7,95,Negative,94,peripheral blood,5310,92.7,Hispanic or Latino,Negative
+GSM299935,test set,None,No CNS disease,Unknown,Female,2,Positive,Negative,Negative,7,95,Negative,66,bone marrow,977,115.1,White,Negative
+GSM299938,test set,Unknown,No CNS disease,Negative,Male,2,Negative,Negative,Negative,5,95,Negative,60,bone marrow,4305,40,White,Negative
+GSM299940,test set,None,No CNS disease,Negative,Male,4,Negative,Negative,Negative,7,95,Negative,99,bone marrow,4657,33.1,Hispanic or Latino,Negative
+GSM299944,test set,Unknown,No CNS disease,Unknown,Female,2,Negative,Negative,Negative,8,70,Positive,69,peripheral blood,434,88.5,Hispanic or Latino,Negative
+GSM299947,test set,None,No CNS disease,Unknown,Female,2,Negative,Negative,Negative,5,90,Negative,65,bone marrow,1068,190,White,Negative
+GSM299948,test set,None,No CNS disease,Negative,Male,4,Negative,Negative,Negative,6,95,Negative,99,bone marrow,5877,66.9,Hispanic or Latino,Negative
+GSM299952,test set,Unknown,No CNS disease,Negative,Male,2,Negative,Negative,Negative,8,95,Negative,96,bone marrow,2876,142.4,Black or African American,Negative
+GSM299954,test set,Downs,No CNS disease,Unknown,Female,2,Negative,Negative,Negative,5,90,Negative,95,peripheral blood,2223,202,Hispanic or Latino,Negative
+GSM299955,test set,None,No CNS disease,Unknown,Female,2,Negative,Negative,Negative,5,95,Positive,97,peripheral blood,7028,259.8,White,Negative
+GSM299958,test set,Downs,No CNS disease,Unknown,Female,2,Negative,Negative,Negative,6,95,Negative,100,peripheral blood,5008,321.2,Hispanic or Latino,Negative
+GSM29996,test set,None,No CNS disease,Unknown,Female,2,Positive,Negative,Negative,8,90,Negative,85,bone marrow,1956,148.2,Hispanic or Latino,Negative
+GSM299964,test set,None,No CNS disease,Negative,Male,2,Negative,Negative,Unknown,7,95,Negative,100,bone marrow,4585,12,White,Negative
+GSM299967,test set,None,No CNS disease,Negative,Male,2,Negative,Negative,Negative,7,-1,Negative,20,bone marrow,5853,2.3,White,Negative
+GSM299969,test set,None,No CNS disease,Negative,Male,2,Negative,Negative,Negative,8,95,Negative,97,peripheral blood,881,106,American Indian or Alaska native,Negative
+GSM299972,test set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,10,90,Negative,98,bone marrow,2519,112,White,Negative
+GSM299974,test set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,11,80,Negative,96,bone marrow,5343,30.2,Black or African American,Negative
+GSM299975,test set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,11,90,Positive,96,bone marrow,852,139,White,Negative
+GSM299983,test set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,11,95,Negative,96,bone marrow,5184,58,White,Negative
+GSM299985,test set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,12,95,Negative,64,bone marrow,5242,3.4,White,Negative
+GSM299990,test set,None,No CNS disease,Negative,Female,3,Positive,Negative,Negative,10,95,Negative,91,bone marrow,5300,98.2,Hispanic or Latino,Negative
+GSM299993,test set,Unknown,No CNS disease,Unknown,Female,3,Positive,Negative,Negative,9,95,Negative,97,bone marrow,1033,118.1,White,Negative
+GSM299994,test set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,9,-1,Negative,31,bone marrow,6052,6.4,Hispanic or Latino,Negative
+GSM299999,test set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,9,95,Negative,95,bone marrow,4776,1.3,Other,Negative
+GSM300006,test set,Unknown,"> 5 CSF WBC/ul with blasts on cytospin and/or eye involvement, cranial nerve involvement, parenchymal brain involvement",Unknown,Female,3,Negative,Negative,Negative,9,95,Negative,97,bone marrow,2769,3,Hispanic or Latino,Negative
+GSM300008,test set,Unknown,No CNS disease,Negative,Male,3,Negative,Negative,Negative,9,95,Negative,98,bone marrow,4815,31.4,Black or African American,Negative
+GSM300009,test set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,10,95,Negative,98,peripheral blood,6315,245,White,Negative
+GSM300012,test set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,11,-1,Negative,44,bone marrow,6487,7.6,White,Negative
+GSM300013,test set,None,No CNS disease,Negative,Male,3,Positive,Negative,Negative,11,95,Negative,99,peripheral blood,1771,152.7,Black or African American,Negative
+GSM300017,test set,None,"> 5 CSF WBC/ul with blasts on cytospin and/or eye involvement, cranial nerve involvement, parenchymal brain involvement",Negative,Male,3,Negative,Negative,Negative,9,95,Negative,97,bone marrow,5194,96.5,Hispanic or Latino,Negative
+GSM300019,test set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,11,90,Negative,92,bone marrow,6062,17,White,Negative
+GSM300020,test set,Unknown,No CNS disease,Unknown,Female,3,Negative,Negative,Negative,11,90,Positive,95,bone marrow,777,6.8,Other,Negative
+GSM30002,test set,None,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Unknown,Female,3,Positive,Negative,Negative,12,85,Negative,100,bone marrow,5889,49.6,White,Negative
+GSM300022,test set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,12,95,Negative,95,peripheral blood,893,455.4,White,Negative
+GSM300028,test set,None,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Unknown,Female,3,Negative,Negative,Negative,12,95,Negative,96,bone marrow,6351,13.8,Black or African American,Negative
+GSM300029,test set,Unknown,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Negative,Male,4,Negative,Negative,Negative,13,95,Negative,86,bone marrow,1475,212.3,White,Negative
+GSM300034,test set,None,No CNS disease,Negative,Male,3,Negative,Negative,Negative,11,90,Negative,98,bone marrow,6107,18.3,Native Hawaiian or other Pacific Islander,Negative
+GSM300040,test set,None,No CNS disease,Unknown,Female,7,Negative,Negative,Negative,14,95,Negative,79,bone marrow,1058,141,White,Negative
+GSM30004,test set,Unknown,"> 5 CSF WBC/ul with blasts on cytospin and/or eye involvement, cranial nerve involvement, parenchymal brain involvement",Unknown,Female,7,Negative,Negative,Negative,14,95,Negative,76,bone marrow,1323,30.6,Hispanic or Latino,Positive
+GSM300043,test set,None,No CNS disease,Negative,Male,8,Negative,Negative,Negative,15,85,Negative,99,bone marrow,5821,1.9,White,Negative
+GSM300049,test set,None,No CNS disease,Negative,Male,8,Negative,Negative,Negative,15,65,Negative,96,bone marrow,6634,11.1,White,Negative
+GSM30005,test set,None,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Negative,Male,8,Negative,Negative,Negative,15,95,Negative,96,bone marrow,5532,5.5,Hispanic or Latino,Negative
+GSM300052,test set,None,< 5 CSF (cerebrospinal fluid) WBC/ul with blasts on cytospin,Positive,Male,8,Negative,Negative,Negative,15,-1,Negative,47,peripheral blood,1914,45.1,Black or African American,Positive
+GSM300054,test set,None,No CNS disease,Negative,Male,8,Positive,Negative,Negative,15,50,Negative,93,peripheral blood,4782,4.4,Asian,Negative
+GSM300055,test set,None,No CNS disease,Negative,Male,8,Negative,Negative,Negative,15,90,Negative,84,bone marrow,5232,1.1,White,Negative
+GSM300056,test set,None,No CNS disease,Negative,Male,8,Positive,Negative,Negative,15,80,Negative,83,peripheral blood,6500,17.8,Black or African American,Negative
+GSM300058,test set,None,No CNS disease,Negative,Male,9,Negative,Negative,Negative,16,95,Negative,98,bone marrow,6539,2.6,Black or African American,Negative
+GSM300059,test set,None,No CNS disease,Negative,Female,9,Negative,Negative,Negative,16,85,Negative,100,bone marrow,5991,5.2,White,Negative
+GSM300063,test set,None,No CNS disease,Unknown,Male,9,Negative,Negative,Negative,16,90,Positive,82,bone marrow,1704,85.1,White,Negative
+GSM300064,test set,Unknown,No CNS disease,Negative,Male,9,Negative,Negative,Negative,16,95,Negative,99,bone marrow,5594,2.8,White,Negative
+GSM300066,test set,None,"> 5 CSF WBC/ul with blasts on cytospin and/or eye involvement, cranial nerve involvement, parenchymal brain involvement",Unknown,Female,9,Positive,Negative,Negative,16,95,Negative,81,bone marrow,4017,3.5,Hispanic or Latino,Negative
